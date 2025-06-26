@@ -15,5 +15,3 @@ A playful web app that delivers random cat images and delightful cat facts! Buil
 ## Getting Started
 bash
 git clone https://github.com/kksah2063/CatSnap.git
-cd CatSnap
-open index.html
